@@ -73,5 +73,9 @@ Edit
   }
 }
 
-🤝 Acknowledgments
+
+
+
+
+## 🤝 Acknowledgments
 This project was built for academic and prototyping purposes. Inspired by real-world challenges faced by farmers and the growing need for sustainable agri-tech solutions.
