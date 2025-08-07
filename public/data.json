@@ -1,0 +1,18 @@
+{
+  "temperature": 26,
+  "humidity": 65,
+  "soilMoisture": 45,
+  "lightIntensity": 880,
+  "ndvi": 0.67,
+  "chlorophyllIndex": 32,
+  "crop": "Tomato",
+  "growthStage": "Flowering",
+  "diseaseRisk": "Moderate",
+  "autoIrrigation": false,
+  "irrigationCount": 2,
+  "lastIrrigationTime": "2025-08-01T09:30:00Z",
+  "animals": [
+    {"id":"Cow-1","status":"Grazing","location":"North Field"},
+    {"id":"Goat-3","status":"Resting","location":"Shelter"}
+  ]
+}
